@@ -1,0 +1,6 @@
+{
+  "name": "BigQuery Release Notes Viewer",
+  "description": "Feed visualizer for BigQuery release notes with interactive tweet generation for updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
